@@ -5,6 +5,9 @@ WorkoutBuddy is a full-stack workout tracker application designed to help users 
 ## Project Overview
 
 WorkoutBuddy is designed to allow users to log workouts, track progress, and manage fitness goals. It features user authentication, a powerful backend for handling workout data, and a responsive React-based frontend. MongoDB is used for storing user and workout data, while JWT tokens ensure secure login sessions.
+<img width="1659" alt="Screenshot 2024-09-22 at 12 17 04 PM" src="https://github.com/user-attachments/assets/5455506e-77e3-4c18-ab7b-e17ee9afaf51">
+
+<img width="1449" alt="Screenshot 2024-09-22 at 12 12 05 PM" src="https://github.com/user-attachments/assets/2c21fc04-dd9f-4635-bb28-bd40b10cfcff">
 
 ## Features
 
@@ -20,7 +23,8 @@ WorkoutBuddy is designed to allow users to log workouts, track progress, and man
 - **Backend:** Node.js, Express.js.
 - **Database:** MongoDB.
 - **Authentication:** JWT for secure token-based user sessions.
-
+- Utilized proxy for connection between front-end and back-end
+  
 ## Installation
 
 ### Prerequisites
