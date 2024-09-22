@@ -23,7 +23,7 @@ WorkoutBuddy is designed to allow users to log workouts, track progress, and man
 - **Backend:** Node.js, Express.js.
 - **Database:** MongoDB.
 - **Authentication:** JWT for secure token-based user sessions.
-- Utilized proxy for connection between front-end and back-end
+- **Utilized** proxy for connection between front-end and back-end and Postman to test HTTP requests and endpoints
   
 ## Installation
 
